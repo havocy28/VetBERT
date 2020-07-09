@@ -1,0 +1,8 @@
+/tpu0/
+/vc-lm-512/
+/temp/
+/VetBERT_model/
+*.zip
+/models/
+/data/
+/.history/

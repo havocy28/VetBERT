@@ -1,0 +1,38 @@
+abscess
+adverse reaction to drug
+appetite disorder
+blood test
+claw/nail disorder
+dental disorder
+disorder not diagnosed
+ear disorder
+endocrine system disorder
+enteropathy
+female reproductive disorder
+fever (undiagnosed)
+foreign body
+heart disorder
+intoxication
+kidney disorder
+lethargy
+liver disorder
+lower respiratory tract disorder
+lymph node disorder
+male reproductive disorder
+mass
+musculoskeletal disorder
+neoplasia
+neurological disorder
+ophthalmological disorder
+oral cavity disorder
+other species
+palliative
+pancreatic disorder
+post operative complication
+prophylaxis
+repeat
+skin disorder
+traumatic injury
+unclear
+upper respiratory tract disorder
+urinary tract disorder
