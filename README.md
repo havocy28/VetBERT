@@ -1,9 +1,8 @@
 # VetBERT
 Brian Hur, b.hur@unimelb.edu.au
 
-This tool enables the classification of the disease syndrome in a veterinary clinical notes.
 
-The VetBERT model is a contextualized language model pretrained on over 15 million clinical documents and can be trained for a variety of tasks.
+The VetBERT model is a contextualized language model pretrained on over 15 million veterinary clinical notes and can be trained for a variety of tasks.
 
 The classifier model implements VetBERT as described in the paper which can be used to classify the disease syndrome in a veterinary clinical note.
 
