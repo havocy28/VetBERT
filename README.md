@@ -40,5 +40,9 @@ If test successful, you should see the output results and there should be a file
 
 ./output/predicted_outputs.xls
 
+To classify your own notes, follow the format in ./input/clinical_notes.xls and save using Excel 97-2003 format.
+You need to supply a dummy label if you do not have the labels and are note testing the model.  The labels that can be used
+are listed in labels.txt.
+
 Please comment or message me if you have any questions or run into any issues.
 
