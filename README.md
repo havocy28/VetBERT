@@ -1,4 +1,5 @@
 # VetBERT
+---------
 Brian Hur, b.hur@unimelb.edu.au
 
 
@@ -6,17 +7,9 @@ The VetBERT model is a contextualized language model pretrained on over 15 milli
 
 The classifier model implements VetBERT as described in the paper which can be used to classify the disease syndrome in a veterinary clinical note.
 
-'''
-@inproceedings{hur2020domain,
-  title={Domain Adaptation and Instance Selection for Disease Syndrome Classification over Veterinary Clinical Notes},
-  author={Hur, Brian and Baldwin, Timothy and Verspoor, Karin and Hardefeldt, Laura and Gilkerson, James},
-  booktitle={Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing},
-  pages={156--166},
-  year={2020}
-}
-'''
 
-##Instructions
+
+# Instructions
 
 To run, install the requirements
 
@@ -29,11 +22,19 @@ unzip the folders contained in the files in the same file that the scripts are b
 
 ensure you have python 3.6 or higher running.  
 
+```
+
 pip install requirements.txt
+
+```
 
 to perform test classification run:
 
+```
+
 python vetbert_classify_demo.py ./input/clinical_notes.xls
+
+```
 
 If test successful, you should see the output results and there should be a file in the folder:
 
@@ -44,4 +45,20 @@ You need to supply a dummy label if you do not have the labels and are note test
 are listed in labels.txt.
 
 Please comment or message me if you have any questions or run into any issues.
+
+
+# Citation
+
+```
+
+@inproceedings{hur2020domain,
+  title={Domain Adaptation and Instance Selection for Disease Syndrome Classification over Veterinary Clinical Notes},
+  author={Hur, Brian and Baldwin, Timothy and Verspoor, Karin and Hardefeldt, Laura and Gilkerson, James},
+  booktitle={Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing},
+  pages={156--166},
+  year={2020}
+}
+
+```
+
 
