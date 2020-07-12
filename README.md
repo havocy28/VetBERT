@@ -44,10 +44,8 @@ To classify your own notes, follow the format in ./input/clinical_notes.xls and 
 You need to supply a dummy label if you do not have the labels and are note testing the model.  The labels that can be used
 are listed in labels.txt.
 
-Please comment or message me if you have any questions or run into any issues.
 
-
-# Citation
+The following paper should be cited if you use any of these resources:
 
 ```
 
@@ -62,3 +60,4 @@ Please comment or message me if you have any questions or run into any issues.
 ```
 
 
+Please comment or message me if you have any questions or run into any issues.
