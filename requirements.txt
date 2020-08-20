@@ -28,7 +28,7 @@ snorkel==0.9.3
 tensorboard==1.15.0
 tensorboardX==1.9
 tensorflow-estimator==1.15.1
-tensorflow-gpu==1.15.0
+tensorflow-gpu==1.15.2
 termcolor==1.1.0
 torch==1.1.0
 tqdm==4.40.0
