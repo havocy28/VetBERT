@@ -254,12 +254,12 @@ for text, test, pred, score, top_3 in zip(X_test, y_test_names, pred_names, pred
     pred_list.append([text, test, pred, score, top_3])
 
 df_pred_data = pd.DataFrame(
-    pred_list, columns=['text', 'truth', 'predicated', 'score', 'top_3_lists'])
+    pred_list, columns=['text', 'truth', 'predicted', 'score', 'top_3_lists'])
 
 #pred_data = {'text': X_test, 'truth' : y_test_names, 'predicted' : pred_names}
 # print(len(X_train))
 # print(len(y_test_names))
 # print(len(pred_names))
 
-df_pred_data.to_excel('./output/predicated_outputs.xls', index=False)
+df_pred_data.to_excel('./output/predicted_outputs.xls', index=False)
 print('results copied to output folder')
