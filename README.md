@@ -4,7 +4,7 @@ Brian Hur, b.hur@unimelb.edu.au
 
 VetBERT is a [BERT based](https://github.com/google-research/bert) contextualized language model pretrained on over 15 million veterinary clinical notes and can be trained to perform a variety of tasks such as the disease indicated in a veterinary clinical record.
 
-The classifier model implements VetBERT as described in the paper from BioNLP workshop @ ACL 2020 which can be used to classify the disease syndrome in a veterinary clinical note.
+The classifier model implements VetBERT as described in the [paper and presentation]([https://www.aclweb.org/anthology/2020.bionlp-1.17/) from the BioNLP workshop @ ACL 2020 which can be used to classify the disease syndrome in a veterinary clinical note.
 
 
 
