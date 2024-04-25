@@ -1,5 +1,14 @@
+# Update
+---------
+The VetBERT model has been converted to PyTorch and moved to HuggingFace. The pretrained model without finetuing is located at: [https://huggingface.co/havocy28/VetBERT](https://huggingface.co/havocy28/VetBERT)
+
+The VetBERT model finetuned on the disease syndrome classification task is located at: [https://huggingface.co/havocy28/VetBERTDx](https://huggingface.co/havocy28/VetBERTDx)
+
+
 # VetBERT
 ---------
+
+
 Brian Hur, b.hur@unimelb.edu.au
 
 VetBERT is a [BERT based](https://github.com/google-research/bert) contextualized language model pretrained on over 15 million veterinary clinical notes and can be trained to perform a variety of tasks such as the disease indicated in a veterinary clinical record.
