@@ -8,7 +8,7 @@ The VetBERT model finetuned on the disease syndrome classification task is locat
 # VetBERT
 ---------
 <p align="center">
-  <img src="vetbert.jpg" alt="VetBERT" width="600"/>
+  <img src="vetbert.jpg" alt="VetBERT" width="300"/>
 </p>
 
 Brian Hur, b.hur@unimelb.edu.au
